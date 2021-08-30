@@ -1,0 +1,10 @@
+﻿Name,Manufacturer,Assets,Category,EOL
+" Monitor",dell,64,desktop,None
+" CPU-i3",Custom-PC,123,desktop,None
+" Mac-Mini-I5",Apple,11,desktop,None
+" Laptop ","Acer + Dell",26,Laptop,None
+" cpu i5",Custom-PC,46,desktop,None
+" Dual core",Custom-PC,1,desktop,None
+" unused/damage mouse","Logi + Dell",2,"Logi + Dell mouse",None
+" unused/damage keyboard","Logi + Dell",2,"Logi + Dell keyboard",None
+" i3-10th generation",Custom-PC,0,desktop,None
